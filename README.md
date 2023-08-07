@@ -1,2 +1,2 @@
-# getoip2ipset
-geoip from mmdb file to ipset
+# geoip2ipset
+
